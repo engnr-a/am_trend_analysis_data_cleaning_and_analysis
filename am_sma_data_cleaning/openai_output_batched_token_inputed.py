@@ -1,0 +1,1 @@
+openai_api_key = "PLACE HOLDER FOR YOUR OPENAI API KEY"
